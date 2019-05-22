@@ -1,4 +1,4 @@
-package com.redis.example2;
+package com.redis.example;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
